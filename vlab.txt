@@ -1,0 +1,6 @@
+1.In problem solving lab the page is not directing to Computer Science engineering labs when it is clicked inside problem solving lab
+http://vlab.co.in/computer-science-and-engineering-labs.html
+
+2.In problem solving lab
+even though the answer is correct it is showing the result is failed.
+http://ps-iiith.vlabs.ac.in/exp2/submission002582644.html
